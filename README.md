@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayush-patel624/DSA/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/ayush-patel624/DSA/tree/master/0279-perfect-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ayush-patel624/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ayush-patel624/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayush-patel624/DSA/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/ayush-patel624/DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/ayush-patel624/DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Memoization
 |  |
@@ -65,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ayush-patel624/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ayush-patel624/DSA/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ayush-patel624/DSA/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ayush-patel624/DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->

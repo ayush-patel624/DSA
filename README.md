@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ayush-patel624/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayush-patel624/DSA/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/ayush-patel624/DSA/tree/master/0279-perfect-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayush-patel624/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/ayush-patel624/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayush-patel624/DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ayush-patel624/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/ayush-patel624/DSA/tree/master/0139-word-break) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ayush-patel624/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

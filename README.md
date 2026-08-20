@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ayush-patel624/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ayush-patel624/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ayush-patel624/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ayush-patel624/DSA/tree/master/0494-target-sum) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1463-cherry-pickup-ii](https://github.com/ayush-patel624/DSA/tree/master/1463-cherry-pickup-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayush-patel624/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ayush-patel624/DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/ayush-patel624/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ayush-patel624/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ayush-patel624/DSA/tree/master/0494-target-sum) |
 | [1463-cherry-pickup-ii](https://github.com/ayush-patel624/DSA/tree/master/1463-cherry-pickup-ii) |
 ## Memoization
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/ayush-patel624/DSA/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/ayush-patel624/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ayush-patel624/DSA/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -119,4 +122,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ayush-patel624/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ayush-patel624/DSA/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ayush-patel624/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

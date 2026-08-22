@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ayush-patel624/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ayush-patel624/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ayush-patel624/DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/ayush-patel624/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ayush-patel624/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/ayush-patel624/DSA/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/ayush-patel624/DSA/tree/master/0174-dungeon-game) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/ayush-patel624/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ayush-patel624/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/ayush-patel624/DSA/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/ayush-patel624/DSA/tree/master/0474-ones-and-zeroes) |

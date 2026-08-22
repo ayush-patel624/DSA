@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ayush-patel624/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ayush-patel624/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ayush-patel624/DSA/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/ayush-patel624/DSA/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/ayush-patel624/DSA/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/ayush-patel624/DSA/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/ayush-patel624/DSA/tree/master/0198-house-robber) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/ayush-patel624/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ayush-patel624/DSA/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/ayush-patel624/DSA/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/ayush-patel624/DSA/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/ayush-patel624/DSA/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayush-patel624/DSA/tree/master/0516-longest-palindromic-subsequence) |

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ayush-patel624/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/ayush-patel624/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ayush-patel624/DSA/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/ayush-patel624/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ayush-patel624/DSA/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/ayush-patel624/DSA/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/ayush-patel624/DSA/tree/master/1463-cherry-pickup-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ayush-patel624/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/ayush-patel624/DSA/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/ayush-patel624/DSA/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/ayush-patel624/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/ayush-patel624/DSA/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |

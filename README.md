@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayush-patel624/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1463-cherry-pickup-ii](https://github.com/ayush-patel624/DSA/tree/master/1463-cherry-pickup-ii) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ayush-patel624/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayush-patel624/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayush-patel624/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayush-patel624/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayush-patel624/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1143-longest-common-subsequence](https://github.com/ayush-patel624/DSA/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/ayush-patel624/DSA/tree/master/1463-cherry-pickup-ii) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ayush-patel624/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-patel624/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayush-patel624/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ayush-patel624/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/ayush-patel624/DSA/tree/master/0617-merge-two-binary-trees) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ayush-patel624/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/ayush-patel624/DSA/tree/master/0617-merge-two-binary-trees) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ayush-patel624/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |

@@ -20,19 +20,10 @@ class Solution {
                 maxPos=i;
             }
         }
-        System.out.println(min);
-        System.out.println(max);
-        System.out.println(minPos);
-        System.out.println(maxPos);
 
         int c1 = minPos > maxPos ? minPos+1 : maxPos+1;
         int c2 = minPos < maxPos ? n-minPos : n-maxPos;
         int c3 = minPos < maxPos ? minPos+1 + (n-maxPos) : maxPos+1 + (n-minPos);
-
-        System.out.println(c1);
-        System.out.println(c2);
-        System.out.println(c3);
-
 
         return Math.min(c1,Math.min(c2,c3));
     }

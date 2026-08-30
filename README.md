@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ayush-patel624/DSA/tree/master/0139-word-break) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/ayush-patel624/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayush-patel624/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayush-patel624/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ayush-patel624/DSA/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/ayush-patel624/DSA/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayush-patel624/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/ayush-patel624/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1143-longest-common-subsequence](https://github.com/ayush-patel624/DSA/tree/master/1143-longest-common-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayush-patel624/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Trie
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush-patel624/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Counting
+|  |
+| ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/ayush-patel624/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->

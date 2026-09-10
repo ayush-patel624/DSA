@@ -16,38 +16,24 @@
 class Solution {
     int res=0;
     public int averageOfSubtree(TreeNode root) {
-        helper(root);
+        sum(root);
         return res;
     }
 
-    void helper(TreeNode node){
-        if(node==null) return;
+    int[] sum(TreeNode node){
+        if(node == null) return new int[]{0,0};
 
-        int n = count(node);
-        int add = sum(node);
+        int[] left = sum(node.left);
+        int[] right = sum(node.right);
 
-        if((add/n)==node.val) res++;
+        int leftSum = left[0];
+        int leftN = left[1];
 
-        helper(node.left);
-        helper(node.right);
-    }
+        int rightSum = right[0];
+        int rightN = right[1];
 
-    int count(TreeNode node){
-        if(node ==null) return 0;
+        if((leftSum+rightSum+node.val)/(leftN+rightN+1) == node.val) res++; 
 
-        int left = count(node.left);
-        int right = count(node.right);
-
-        return 1 + left + right;
-
-    }
-
-    int sum(TreeNode node){
-        if(node == null) return 0;
-
-        int left = sum(node.left);
-        int right = sum(node.right);
-
-        return left+right+node.val;
+        return new int[]{leftSum+rightSum+node.val,leftN+rightN+1};
     }
 }

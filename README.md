@@ -200,15 +200,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/ayush-patel624/DSA/tree/master/0617-merge-two-binary-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayush-patel624/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ayush-patel624/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/ayush-patel624/DSA/tree/master/0617-merge-two-binary-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayush-patel624/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/ayush-patel624/DSA/tree/master/0617-merge-two-binary-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayush-patel624/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ayush-patel624/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Sliding Window
 |  |

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush-patel624/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayush-patel624/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayush-patel624/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayush-patel624/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/ayush-patel624/DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayush-patel624/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayush-patel624/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ayush-patel624/DSA/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/ayush-patel624/DSA/tree/master/0279-perfect-squares) |
 | [0836-rectangle-overlap](https://github.com/ayush-patel624/DSA/tree/master/0836-rectangle-overlap) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayush-patel624/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayush-patel624/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/ayush-patel624/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ayush-patel624/DSA/tree/master/3871-count-commas-in-range-ii) |

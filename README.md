@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ayush-patel624/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ayush-patel624/DSA/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/ayush-patel624/DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/ayush-patel624/DSA/tree/master/0064-minimum-path-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ayush-patel624/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-patel624/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayush-patel624/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayush-patel624/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/ayush-patel624/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ayush-patel624/DSA/tree/master/0016-3sum-closest) |
 ## Manacher
 |  |

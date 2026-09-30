@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ayush-patel624/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ayush-patel624/DSA/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayush-patel624/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0881-boats-to-save-people](https://github.com/ayush-patel624/DSA/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1463-cherry-pickup-ii](https://github.com/ayush-patel624/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-patel624/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ayush-patel624/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-patel624/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayush-patel624/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0881-boats-to-save-people](https://github.com/ayush-patel624/DSA/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayush-patel624/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ayush-patel624/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ayush-patel624/DSA/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-patel624/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/ayush-patel624/DSA/tree/master/0881-boats-to-save-people) |
 ## Manacher
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ayush-patel624/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ayush-patel624/DSA/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/ayush-patel624/DSA/tree/master/0881-boats-to-save-people) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush-patel624/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
 |  |
@@ -302,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayush-patel624/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-patel624/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-patel624/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/ayush-patel624/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->

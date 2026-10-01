@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/ayush-patel624/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ayush-patel624/DSA/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/ayush-patel624/DSA/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ayush-patel624/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/ayush-patel624/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayush-patel624/DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/ayush-patel624/DSA/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/ayush-patel624/DSA/tree/master/0279-perfect-squares) |
 | [0836-rectangle-overlap](https://github.com/ayush-patel624/DSA/tree/master/0836-rectangle-overlap) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayush-patel624/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ayush-patel624/DSA/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/ayush-patel624/DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-patel624/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/ayush-patel624/DSA/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/ayush-patel624/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush-patel624/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -323,4 +326,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayush-patel624/DSA/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/ayush-patel624/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

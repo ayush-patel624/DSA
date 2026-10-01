@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ayush-patel624/DSA/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/ayush-patel624/DSA/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ayush-patel624/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ayush-patel624/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ayush-patel624/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ayush-patel624/DSA/tree/master/0018-4sum) |
+| [0141-linked-list-cycle](https://github.com/ayush-patel624/DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-patel624/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/ayush-patel624/DSA/tree/master/0881-boats-to-save-people) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ayush-patel624/DSA/tree/master/0141-linked-list-cycle) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ayush-patel624/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Prefix Sum
 |  |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ayush-patel624/DSA/tree/master/0881-boats-to-save-people) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ayush-patel624/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ayush-patel624/DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/ayush-patel624/DSA/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/ayush-patel624/DSA/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayush-patel624/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-patel624/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-patel624/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ayush-patel624/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush-patel624/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayush-patel624/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ayush-patel624/DSA/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayush-patel624/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/ayush-patel624/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush-patel624/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-patel624/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |

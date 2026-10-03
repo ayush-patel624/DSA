@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/ayush-patel624/DSA/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/ayush-patel624/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayush-patel624/DSA/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/ayush-patel624/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ayush-patel624/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ayush-patel624/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ayush-patel624/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ayush-patel624/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-patel624/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ayush-patel624/DSA/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/ayush-patel624/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ayush-patel624/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ayush-patel624/DSA/tree/master/0392-is-subsequence) |

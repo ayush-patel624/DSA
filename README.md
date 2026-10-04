@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayush-patel624/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/ayush-patel624/DSA/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayush-patel624/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2938-separate-black-and-white-balls](https://github.com/ayush-patel624/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayush-patel624/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayush-patel624/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ayush-patel624/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2938-separate-black-and-white-balls](https://github.com/ayush-patel624/DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ayush-patel624/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayush-patel624/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/ayush-patel624/DSA/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [2938-separate-black-and-white-balls](https://github.com/ayush-patel624/DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Manacher
 |  |
 | ------- |

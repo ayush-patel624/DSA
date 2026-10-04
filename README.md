@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ayush-patel624/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayush-patel624/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ayush-patel624/DSA/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ayush-patel624/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayush-patel624/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1143-longest-common-subsequence](https://github.com/ayush-patel624/DSA/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/ayush-patel624/DSA/tree/master/1463-cherry-pickup-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ayush-patel624/DSA/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/ayush-patel624/DSA/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayush-patel624/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/ayush-patel624/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ayush-patel624/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush-patel624/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/ayush-patel624/DSA/tree/master/1143-longest-common-subsequence) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush-patel624/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-patel624/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ayush-patel624/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayush-patel624/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/ayush-patel624/DSA/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ayush-patel624/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayush-patel624/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayush-patel624/DSA/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/ayush-patel624/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush-patel624/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayush-patel624/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-patel624/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ayush-patel624/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ayush-patel624/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayush-patel624/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ayush-patel624/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush-patel624/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayush-patel624/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-patel624/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

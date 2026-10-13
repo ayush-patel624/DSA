@@ -1,19 +1,24 @@
 class Solution {
     public int[] resultsArray(int[] nums, int k) {
         int n = nums.length;
-        if(k==1) return nums;
-        int [] res = new int[n-k+1];
+        int[] res = new int[n - k + 1];
 
-        int low=0;
-        int high=0;
+        int count = 1;
 
-        for(int i=0;i<n-k+1;i++){
-            int j = i+1;
-            while(j<i+k && nums[j-1]+1==nums[j]){
-                j++;
+        for (int i = 0; i < n; i++) {
+            if (i > 0 && nums[i] == nums[i - 1] + 1) {
+                count++;
+            } else {
+                count = 1;
             }
-            if(j==i+k) res[i]=nums[j-1];
-            else res[i]=-1;
+
+            if (i >= k - 1) {
+                if (count >= k) {
+                    res[i - k + 1] = nums[i];
+                } else {
+                    res[i - k + 1] = -1;
+                }
+            }
         }
 
         return res;

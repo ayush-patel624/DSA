@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayush-patel624/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayush-patel624/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayush-patel624/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayush-patel624/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/ayush-patel624/DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-patel624/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayush-patel624/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayush-patel624/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/ayush-patel624/DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayush-patel624/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-patel624/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayush-patel624/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/ayush-patel624/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayush-patel624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayush-patel624/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Geometry
 |  |
 | ------- |

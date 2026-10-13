@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayush-patel624/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/ayush-patel624/DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayush-patel624/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ayush-patel624/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayush-patel624/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ayush-patel624/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ayush-patel624/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayush-patel624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ayush-patel624/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2938-separate-black-and-white-balls](https://github.com/ayush-patel624/DSA/tree/master/2938-separate-black-and-white-balls) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ayush-patel624/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ayush-patel624/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayush-patel624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush-patel624/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ayush-patel624/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |

@@ -2,49 +2,57 @@
 import java.util.*;
 
 class Solution {
-    boolean check(HashMap<Character, Integer> map,
-                  HashMap<Character, Integer> checkMap) {
-
-        for (char c : map.keySet()) {
-            if (map.get(c) > checkMap.getOrDefault(c, 0)) {
-                return false;
-            }
-        }
-        return true;
-    }
-
     public String minWindow(String s, String t) {
-        int low = 0, high = 0;
-        int res = Integer.MAX_VALUE;
-        String f = "";
-
-        HashMap<Character, Integer> map = new HashMap<>();
-        for (char c : t.toCharArray()) {
-            map.put(c, map.getOrDefault(c, 0) + 1);
+        if (s.length() < t.length() || t.isEmpty()) {
+            return "";
         }
 
-        HashMap<Character, Integer> checkMap = new HashMap<>();
+        HashMap<Character, Integer> need = new HashMap<>();
+        HashMap<Character, Integer> window = new HashMap<>();
+
+        for (char c : t.toCharArray()) {
+            need.put(c, need.getOrDefault(c, 0) + 1);
+        }
+
+        int required = need.size();
+        int formed = 0;
+
+        int low = 0, high = 0;
+        int minLen = Integer.MAX_VALUE;
+        int start = 0;
 
         while (high < s.length()) {
-            checkMap.put(s.charAt(high),
-                checkMap.getOrDefault(s.charAt(high), 0) + 1);
+            char c = s.charAt(high);
+            window.put(c, window.getOrDefault(c, 0) + 1);
+
+            if (need.containsKey(c)
+                    && window.get(c).intValue() == need.get(c).intValue()) {
+                formed++;
+            }
+
             high++;
 
-            while (check(map, checkMap)) {
-                if (high - low < res) {
-                    res = high - low;
-                    f = s.substring(low, high);
+            while (formed == required) {
+                if (high - low < minLen) {
+                    minLen = high - low;
+                    start = low;
                 }
 
-                char c = s.charAt(low);
-                checkMap.put(c, checkMap.get(c) - 1);
-                if (checkMap.get(c) == 0) {
-                    checkMap.remove(c);
+                char leftChar = s.charAt(low);
+
+                if (need.containsKey(leftChar)
+                        && window.get(leftChar).intValue()
+                           == need.get(leftChar).intValue()) {
+                    formed--;
                 }
+
+                window.put(leftChar, window.get(leftChar) - 1);
                 low++;
             }
         }
 
-        return f;
+        return minLen == Integer.MAX_VALUE
+                ? ""
+                : s.substring(start, start + minLen);
     }
 }

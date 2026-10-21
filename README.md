@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayush-patel624/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2938-separate-black-and-white-balls](https://github.com/ayush-patel624/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayush-patel624/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ayush-patel624/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
 | ------- |

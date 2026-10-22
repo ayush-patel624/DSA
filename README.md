@@ -56,6 +56,7 @@ A collection of LeetCode questions .
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayush-patel624/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-patel624/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayush-patel624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayush-patel624/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ayush-patel624/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayush-patel624/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayush-patel624/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions .
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-patel624/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayush-patel624/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayush-patel624/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayush-patel624/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayush-patel624/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions .
 | [0713-subarray-product-less-than-k](https://github.com/ayush-patel624/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-patel624/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayush-patel624/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayush-patel624/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayush-patel624/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |

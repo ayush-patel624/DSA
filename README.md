@@ -50,6 +50,7 @@ A collection of LeetCode questions .
 | [1463-cherry-pickup-ii](https://github.com/ayush-patel624/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-patel624/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayush-patel624/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ayush-patel624/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1882-process-tasks-using-servers](https://github.com/ayush-patel624/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush-patel624/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayush-patel624/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions .
 | [0349-intersection-of-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/ayush-patel624/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-patel624/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ayush-patel624/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush-patel624/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayush-patel624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Longest Increasing Subsequence
@@ -257,6 +259,7 @@ A collection of LeetCode questions .
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush-patel624/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayush-patel624/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ayush-patel624/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayush-patel624/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayush-patel624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ayush-patel624/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions .
 | [0643-maximum-average-subarray-i](https://github.com/ayush-patel624/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ayush-patel624/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-patel624/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ayush-patel624/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayush-patel624/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -385,6 +389,7 @@ A collection of LeetCode questions .
 | [0881-boats-to-save-people](https://github.com/ayush-patel624/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ayush-patel624/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush-patel624/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ayush-patel624/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush-patel624/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayush-patel624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush-patel624/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -410,6 +415,7 @@ A collection of LeetCode questions .
 | [0209-minimum-size-subarray-sum](https://github.com/ayush-patel624/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ayush-patel624/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-patel624/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ayush-patel624/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/ayush-patel624/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ayush-patel624/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Heap (Priority Queue)

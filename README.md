@@ -93,6 +93,7 @@ A collection of LeetCode questions .
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-patel624/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayush-patel624/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayush-patel624/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/ayush-patel624/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayush-patel624/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayush-patel624/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions .
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-patel624/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayush-patel624/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/ayush-patel624/DSA/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/ayush-patel624/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayush-patel624/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2938-separate-black-and-white-balls](https://github.com/ayush-patel624/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayush-patel624/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions .
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-patel624/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayush-patel624/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayush-patel624/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/ayush-patel624/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayush-patel624/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |

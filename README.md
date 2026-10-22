@@ -98,6 +98,7 @@ A collection of LeetCode questions .
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/ayush-patel624/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayush-patel624/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayush-patel624/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayush-patel624/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayush-patel624/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayush-patel624/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions .
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/ayush-patel624/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayush-patel624/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2938-separate-black-and-white-balls](https://github.com/ayush-patel624/DSA/tree/master/2938-separate-black-and-white-balls) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayush-patel624/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayush-patel624/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ayush-patel624/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
@@ -230,6 +232,7 @@ A collection of LeetCode questions .
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush-patel624/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayush-patel624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ayush-patel624/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayush-patel624/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -384,6 +387,7 @@ A collection of LeetCode questions .
 | [2762-continuous-subarrays](https://github.com/ayush-patel624/DSA/tree/master/2762-continuous-subarrays) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ayush-patel624/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayush-patel624/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayush-patel624/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Union-Find
@@ -411,6 +415,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ayush-patel624/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayush-patel624/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Linked List
 |  |
 | ------- |

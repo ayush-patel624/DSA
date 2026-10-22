@@ -58,6 +58,7 @@ A collection of LeetCode questions .
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayush-patel624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayush-patel624/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ayush-patel624/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2762-continuous-subarrays](https://github.com/ayush-patel624/DSA/tree/master/2762-continuous-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayush-patel624/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayush-patel624/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayush-patel624/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions .
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayush-patel624/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayush-patel624/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/ayush-patel624/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2762-continuous-subarrays](https://github.com/ayush-patel624/DSA/tree/master/2762-continuous-subarrays) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayush-patel624/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions .
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/ayush-patel624/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayush-patel624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2762-continuous-subarrays](https://github.com/ayush-patel624/DSA/tree/master/2762-continuous-subarrays) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayush-patel624/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Geometry
@@ -510,4 +513,16 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ayush-patel624/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [2762-continuous-subarrays](https://github.com/ayush-patel624/DSA/tree/master/2762-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2762-continuous-subarrays](https://github.com/ayush-patel624/DSA/tree/master/2762-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2762-continuous-subarrays](https://github.com/ayush-patel624/DSA/tree/master/2762-continuous-subarrays) |
 <!---LeetCode Topics End-->

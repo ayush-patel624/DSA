@@ -46,6 +46,7 @@ A collection of LeetCode questions .
 | [0881-boats-to-save-people](https://github.com/ayush-patel624/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ayush-patel624/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush-patel624/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1254-number-of-closed-islands](https://github.com/ayush-patel624/DSA/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1463-cherry-pickup-ii](https://github.com/ayush-patel624/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-patel624/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions .
 | [0279-perfect-squares](https://github.com/ayush-patel624/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ayush-patel624/DSA/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/ayush-patel624/DSA/tree/master/0617-merge-two-binary-trees) |
+| [1254-number-of-closed-islands](https://github.com/ayush-patel624/DSA/tree/master/1254-number-of-closed-islands) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions .
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ayush-patel624/DSA/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/ayush-patel624/DSA/tree/master/0174-dungeon-game) |
+| [1254-number-of-closed-islands](https://github.com/ayush-patel624/DSA/tree/master/1254-number-of-closed-islands) |
 | [1463-cherry-pickup-ii](https://github.com/ayush-patel624/DSA/tree/master/1463-cherry-pickup-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-patel624/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation
@@ -367,6 +370,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/ayush-patel624/DSA/tree/master/0617-merge-two-binary-trees) |
+| [1254-number-of-closed-islands](https://github.com/ayush-patel624/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayush-patel624/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -397,6 +401,7 @@ A collection of LeetCode questions .
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ayush-patel624/DSA/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush-patel624/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |

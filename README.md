@@ -72,6 +72,7 @@ A collection of LeetCode questions .
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayush-patel624/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayush-patel624/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayush-patel624/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayush-patel624/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ayush-patel624/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/ayush-patel624/DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayush-patel624/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions .
 | [0322-coin-change](https://github.com/ayush-patel624/DSA/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/ayush-patel624/DSA/tree/master/0617-merge-two-binary-trees) |
 | [1254-number-of-closed-islands](https://github.com/ayush-patel624/DSA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayush-patel624/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions .
 | [1254-number-of-closed-islands](https://github.com/ayush-patel624/DSA/tree/master/1254-number-of-closed-islands) |
 | [1463-cherry-pickup-ii](https://github.com/ayush-patel624/DSA/tree/master/1463-cherry-pickup-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-patel624/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayush-patel624/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions .
 | [0617-merge-two-binary-trees](https://github.com/ayush-patel624/DSA/tree/master/0617-merge-two-binary-trees) |
 | [1254-number-of-closed-islands](https://github.com/ayush-patel624/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayush-patel624/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayush-patel624/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -403,6 +407,7 @@ A collection of LeetCode questions .
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ayush-patel624/DSA/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush-patel624/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayush-patel624/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |

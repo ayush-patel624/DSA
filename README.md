@@ -79,6 +79,7 @@ A collection of LeetCode questions .
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayush-patel624/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayush-patel624/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ayush-patel624/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ayush-patel624/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/ayush-patel624/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ayush-patel624/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -162,6 +163,7 @@ A collection of LeetCode questions .
 | [1463-cherry-pickup-ii](https://github.com/ayush-patel624/DSA/tree/master/1463-cherry-pickup-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-patel624/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ayush-patel624/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ayush-patel624/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions .
 | [0287-find-the-duplicate-number](https://github.com/ayush-patel624/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ayush-patel624/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ayush-patel624/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions .
 | [1463-cherry-pickup-ii](https://github.com/ayush-patel624/DSA/tree/master/1463-cherry-pickup-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-patel624/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayush-patel624/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ayush-patel624/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |

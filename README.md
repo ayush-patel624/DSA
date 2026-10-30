@@ -217,6 +217,7 @@ A collection of LeetCode questions .
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayush-patel624/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayush-patel624/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ayush-patel624/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ayush-patel624/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Trie
 |  |
 | ------- |
@@ -461,6 +462,7 @@ A collection of LeetCode questions .
 | [2762-continuous-subarrays](https://github.com/ayush-patel624/DSA/tree/master/2762-continuous-subarrays) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayush-patel624/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ayush-patel624/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Geometry
 |  |
 | ------- |
@@ -552,4 +554,12 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [2762-continuous-subarrays](https://github.com/ayush-patel624/DSA/tree/master/2762-continuous-subarrays) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ayush-patel624/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ayush-patel624/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->

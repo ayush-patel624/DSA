@@ -49,6 +49,7 @@ A collection of LeetCode questions .
 | [0905-sort-array-by-parity](https://github.com/ayush-patel624/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush-patel624/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/ayush-patel624/DSA/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1463-cherry-pickup-ii](https://github.com/ayush-patel624/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-patel624/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions .
 | [0300-longest-increasing-subsequence](https://github.com/ayush-patel624/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/ayush-patel624/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-patel624/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayush-patel624/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush-patel624/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions .
 | [0881-boats-to-save-people](https://github.com/ayush-patel624/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ayush-patel624/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush-patel624/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayush-patel624/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/ayush-patel624/DSA/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/ayush-patel624/DSA/tree/master/2938-separate-black-and-white-balls) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions .
 | [0881-boats-to-save-people](https://github.com/ayush-patel624/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ayush-patel624/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush-patel624/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayush-patel624/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush-patel624/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayush-patel624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |

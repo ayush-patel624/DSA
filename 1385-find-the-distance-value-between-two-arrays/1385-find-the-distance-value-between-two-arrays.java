@@ -1,22 +1,19 @@
 class Solution {
     public int findTheDistanceValue(int[] arr1, int[] arr2, int d) {
-        int count = 0;
+        int res=0;
 
-        for (int x : arr1) {
-            boolean valid = true;
+        for(int i : arr1){
+            int found=0;
 
-            for (int y : arr2) {
-                if (Math.abs(x - y) <= d) {
-                    valid = false;
+            for(int j : arr2){
+                if(Math.abs(i-j)<=d){
+                    found=1;
                     break;
                 }
             }
-
-            if (valid) {
-                count++;
-            }
+            if(found==0) res+=1;
         }
 
-        return count;
+        return res;
     }
 }

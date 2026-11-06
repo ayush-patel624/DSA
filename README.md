@@ -62,6 +62,7 @@ A collection of LeetCode questions .
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayush-patel624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayush-patel624/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ayush-patel624/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2747-count-zero-request-servers](https://github.com/ayush-patel624/DSA/tree/master/2747-count-zero-request-servers) |
 | [2762-continuous-subarrays](https://github.com/ayush-patel624/DSA/tree/master/2762-continuous-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayush-patel624/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ayush-patel624/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions .
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayush-patel624/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayush-patel624/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/ayush-patel624/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2747-count-zero-request-servers](https://github.com/ayush-patel624/DSA/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayush-patel624/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayush-patel624/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayush-patel624/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions .
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayush-patel624/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayush-patel624/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/ayush-patel624/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2747-count-zero-request-servers](https://github.com/ayush-patel624/DSA/tree/master/2747-count-zero-request-servers) |
 | [2762-continuous-subarrays](https://github.com/ayush-patel624/DSA/tree/master/2762-continuous-subarrays) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ayush-patel624/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayush-patel624/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions .
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayush-patel624/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush-patel624/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayush-patel624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/ayush-patel624/DSA/tree/master/2747-count-zero-request-servers) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ayush-patel624/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush-patel624/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayush-patel624/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |

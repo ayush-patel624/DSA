@@ -1,58 +1,45 @@
-
 import java.util.*;
 
 class Solution {
     public int[] countServers(int n, int[][] logs, int x, int[] queries) {
-
-        Arrays.sort(logs, (a, b) -> Integer.compare(a[1], b[1]));
-
-        int k = queries.length;
-        int[] ans = new int[k];
-
-        Integer[] idx = new Integer[k];
-        for (int i = 0; i < k; i++) {
-            idx[i] = i;
+        Arrays.sort(logs, Comparator.comparingInt(a -> a[1]));
+        
+        int[][] orderedQueries = new int[queries.length][2];
+        for (int i = 0; i < queries.length; i++) {
+            orderedQueries[i][0] = queries[i];
+            orderedQueries[i][1] = i;
         }
-
-        Arrays.sort(idx, (a, b) ->
-            Integer.compare(queries[a], queries[b]));
-
-        int[] freq = new int[n + 1];
+        
+        Arrays.sort(orderedQueries, Comparator.comparingInt(a -> a[0]));
+        
+        int[] result = new int[queries.length];
+        int[] count = new int[n + 1];
+        int left = 0;
+        int right = 0;
         int active = 0;
-
-        int left = 0, right = 0;
-
-        for (int id : idx) {
-
-            int q = queries[id];
-            int start = q - x;
-
-            while (right < logs.length && logs[right][1] <= q) {
+        
+        for (int[] query : orderedQueries) {
+            int time = query[0];
+            
+            while (right < logs.length && logs[right][1] <= time) {
                 int server = logs[right][0];
-
-                if (freq[server] == 0) {
+                if (count[server]++ == 0) {
                     active++;
                 }
-
-                freq[server]++;
                 right++;
             }
-
-            while (left < right && logs[left][1] < start) {
+            
+            while (left < right && logs[left][1] < time - x) {
                 int server = logs[left][0];
-
-                freq[server]--;
-
-                if (freq[server] == 0) {
+                if (--count[server] == 0) {
                     active--;
                 }
-
                 left++;
             }
-
-            ans[id] = n - active;
+            
+            result[query[1]] = n - active;
         }
-
-        return ans;
+        
+        return result;
     }
 }

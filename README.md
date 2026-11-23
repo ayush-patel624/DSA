@@ -49,6 +49,7 @@ A collection of LeetCode questions .
 | [0905-sort-array-by-parity](https://github.com/ayush-patel624/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush-patel624/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/ayush-patel624/DSA/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayush-patel624/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-patel624/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1463-cherry-pickup-ii](https://github.com/ayush-patel624/DSA/tree/master/1463-cherry-pickup-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions .
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayush-patel624/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayush-patel624/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/ayush-patel624/DSA/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayush-patel624/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/ayush-patel624/DSA/tree/master/2409-count-days-spent-together) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayush-patel624/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayush-patel624/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions .
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush-patel624/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ayush-patel624/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayush-patel624/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-patel624/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayush-patel624/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/ayush-patel624/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -580,4 +583,12 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ayush-patel624/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayush-patel624/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayush-patel624/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

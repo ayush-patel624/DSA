@@ -74,6 +74,7 @@ A collection of LeetCode questions .
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayush-patel624/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayush-patel624/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayush-patel624/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayush-patel624/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayush-patel624/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions .
 | [1352-product-of-the-last-k-numbers](https://github.com/ayush-patel624/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/ayush-patel624/DSA/tree/master/2409-count-days-spent-together) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayush-patel624/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayush-patel624/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayush-patel624/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayush-patel624/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayush-patel624/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions .
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayush-patel624/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel624/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayush-patel624/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Union-Find
 |  |
 | ------- |
@@ -549,6 +552,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayush-patel624/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayush-patel624/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -591,4 +595,8 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/ayush-patel624/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayush-patel624/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->

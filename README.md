@@ -10,6 +10,7 @@ A collection of LeetCode questions .
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayush-patel624/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ayush-patel624/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ayush-patel624/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ayush-patel624/DSA/tree/master/0018-4sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions .
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayush-patel624/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush-patel624/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ayush-patel624/DSA/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/ayush-patel624/DSA/tree/master/0139-word-break) |

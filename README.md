@@ -38,6 +38,7 @@ A collection of LeetCode questions .
 | [0300-longest-increasing-subsequence](https://github.com/ayush-patel624/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ayush-patel624/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/ayush-patel624/DSA/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/ayush-patel624/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/ayush-patel624/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayush-patel624/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions .
 | [0217-contains-duplicate](https://github.com/ayush-patel624/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ayush-patel624/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ayush-patel624/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ayush-patel624/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush-patel624/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ayush-patel624/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayush-patel624/DSA/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/ayush-patel624/DSA/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -454,6 +457,7 @@ A collection of LeetCode questions .
 | [0075-sort-colors](https://github.com/ayush-patel624/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ayush-patel624/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayush-patel624/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ayush-patel624/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayush-patel624/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0881-boats-to-save-people](https://github.com/ayush-patel624/DSA/tree/master/0881-boats-to-save-people) |
@@ -471,6 +475,7 @@ A collection of LeetCode questions .
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayush-patel624/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ayush-patel624/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayush-patel624/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Linked List
@@ -496,6 +501,7 @@ A collection of LeetCode questions .
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayush-patel624/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1882-process-tasks-using-servers](https://github.com/ayush-patel624/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayush-patel624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2762-continuous-subarrays](https://github.com/ayush-patel624/DSA/tree/master/2762-continuous-subarrays) |
@@ -614,4 +620,12 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ayush-patel624/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayush-patel624/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayush-patel624/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

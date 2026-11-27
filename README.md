@@ -17,6 +17,7 @@ A collection of LeetCode questions .
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush-patel624/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayush-patel624/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ayush-patel624/DSA/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/ayush-patel624/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ayush-patel624/DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/ayush-patel624/DSA/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/ayush-patel624/DSA/tree/master/0075-sort-colors) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions .
 | ------- |
 | [0001-two-sum](https://github.com/ayush-patel624/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush-patel624/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ayush-patel624/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ayush-patel624/DSA/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/ayush-patel624/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ayush-patel624/DSA/tree/master/0141-linked-list-cycle) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions .
 | [0020-valid-parentheses](https://github.com/ayush-patel624/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ayush-patel624/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayush-patel624/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ayush-patel624/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ayush-patel624/DSA/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/ayush-patel624/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ayush-patel624/DSA/tree/master/0076-minimum-window-substring) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions .
 | ------- |
 | [0016-3sum-closest](https://github.com/ayush-patel624/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ayush-patel624/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/ayush-patel624/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ayush-patel624/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ayush-patel624/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayush-patel624/DSA/tree/master/0242-valid-anagram) |

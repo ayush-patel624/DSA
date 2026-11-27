@@ -29,6 +29,7 @@ A collection of LeetCode questions .
 | [0198-house-robber](https://github.com/ayush-patel624/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush-patel624/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ayush-patel624/DSA/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/ayush-patel624/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ayush-patel624/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/ayush-patel624/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ayush-patel624/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions .
 | [0141-linked-list-cycle](https://github.com/ayush-patel624/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush-patel624/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ayush-patel624/DSA/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/ayush-patel624/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ayush-patel624/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush-patel624/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions .
 | [0016-3sum-closest](https://github.com/ayush-patel624/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ayush-patel624/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ayush-patel624/DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/ayush-patel624/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush-patel624/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayush-patel624/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0881-boats-to-save-people](https://github.com/ayush-patel624/DSA/tree/master/0881-boats-to-save-people) |
